@@ -1,4 +1,6 @@
 # 🎬 Movie Recommendation System
+![Sentiment-analysis Banner](images/prj.jpg)
+
 
 ## Overview
 This project implements a **movie recommendation system** using the **MovieLens 100k dataset**. The system provides personalized movie suggestions using **popularity-based methods, collaborative filtering, and matrix factorization (SVD)**.  
@@ -56,13 +58,13 @@ It demonstrates an **end-to-end workflow**:
 - **Visualizations**:
 
 **Ratings Distribution**  
-![Ratings Distribution](images/ratings_distribution.png)
+![Ratings Distribution](images/dist_movie.png)
 
 **Top 10 Most Rated Movies**  
-![Top Rated Movies](images/top_movies.png)
+![Top Rated Movies](images/top10.png)
 
 **User-Movie Interaction Heatmap**  
-![User-Movie Heatmap](images/user_movie_heatmap.png)
+![User-Movie Heatmap](images/heat.png)
 
 ### 3️⃣ Recommendation Models
 - **Popularity-Based Recommender**  
@@ -105,16 +107,16 @@ It demonstrates an **end-to-end workflow**:
 10. Stand by Me (1986)  
 
 **Popularity-Based Top 10 Movies:**  
-![Top 10 Popular Movies](images/popular_movies.png)
+![Top 10 Popular Movies](images/top10.png)
 
 ---
 
 ### 6️⃣ Visualization
 **Example: Rating distribution by movie popularity**  
-![Rating per Movie](images/ratings_per_movie.png)
+![Rating per Movie](images/dist.png)
 
 **User-Item Matrix Heatmap**  
-![User-Item Heatmap](images/user_item_matrix.png)
+![User-Item Heatmap](images/matrix.png)
 
 ---
 
